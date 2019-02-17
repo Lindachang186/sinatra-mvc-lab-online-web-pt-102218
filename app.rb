@@ -12,9 +12,5 @@ class App < Sinatra::Base
   end
 
 end
-
-"eHay asway anway oldway anmay owhay ishedfay aloneway inway away iffskay inway ethay ulfGay
- ayStream andway ehay adhay onegay eightyway ourfay aysday ownay ithoutway akingtay away ishfay")
-       expected "eHay asway anway oldway anmay owhay ishedfay aloneway inway away iffskay inway ethay ulfGay eamStray andway ehay adhay onegay eightyw
-ay ourfay aysday ownay ithoutway akingtay away ishfay" to include "eHay asway anway oldway anmay owhay ishedfay aloneway inway away iffskay inway etha
+"eHay asway anway oldway anmay owhay ishedfay aloneway inway away iffskay inway etha
 y ulfGay ayStream andway ehay adhay onegay eightyway ourfay aysday ownay ithoutway akingtay away ishfay"
