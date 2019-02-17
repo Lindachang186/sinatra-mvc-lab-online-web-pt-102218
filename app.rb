@@ -9,8 +9,7 @@ class App < Sinatra::Base
   post '/piglatinize' do
     @new_phrase = PigLatinizer.new.piglatinize(params[:user_phrase])
 
-    "eHay asway anway oldway anmay owhay ishedfay aloneway inway away iffskay inway ethay ulfGay
- ayStream andway ehay adhay onegay eightyway ourfay aysday ownay ithoutway akingtay away ishfay"
+  
   end
 
 end
